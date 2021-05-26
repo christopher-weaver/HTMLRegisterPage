@@ -46,7 +46,7 @@ fieldset {
 .main-panel {
     border: 1px solid gray;
     border-radius: 5px;
-    box-shadow: 0 0 15px gray;
+    box-shadow: 5px 5px 15px gray;
     width: 285px;
     text-align: center;
     margin: 10px auto;
